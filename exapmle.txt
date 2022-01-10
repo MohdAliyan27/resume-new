@@ -1,0 +1,13 @@
+heroku -v
+mkdir ~/.ssh
+cd ~/.ssh
+ssh-keygen.exe   //all will be emplty no password
+ls
+$ cd e/
+$ cd 'FIX THIS ASAP'/
+$ cd 'Resume'/
+$ heroku keys:add
+$ heroku create
+$ git push heroku master
+
+
